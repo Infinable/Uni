@@ -1,0 +1,11 @@
+% 1
+@relation MovementData
+
+@attribute MIN numeric
+@attribute MAX numeric
+@attribute Standard_deviation numeric
+@attribute Median_value numeric
+@atribute class{FBLocked, FBUnlocked, LR, LRSpin, Roll}
+@data
+ -15.23, -9.89, -14.724444444444442, 1.2561591469511877, LR
+ -15.23, -9.89, -14.724444444444442, 1.2561591469511877, FB
